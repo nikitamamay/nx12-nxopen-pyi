@@ -1,2 +1,89 @@
 # nx12-nxopen-pyi
-Python pyi files for NXOpen (NX 12) with docstrings and type annotations
+Python pyi-files for NXOpen (NX 12) containing declarations with docstrings, type annotations and classes hierarchy.
+
+These pyi-files are generated in NX 12 using [nxopen-generate-pyi](https://github.com/nikitamamay/nx-journals/tree/main/nxopen-generate-pyi) journal collection.
+
+The list of files:
+```
+NXOpen/
+    __init__.pyi
+    Annotations/__init__.pyi
+    Assemblies/__init__.pyi
+    Assemblies/ProductInterface/__init__.pyi
+    BlockStyler/__init__.pyi
+    BodyDes/__init__.pyi
+    CAE/__init__.pyi
+    CAE/AeroStructures/__init__.pyi
+    CAE/AeroStructures/Author/__init__.pyi
+    CAE/Connections/__init__.pyi
+    CAE/FTK/__init__.pyi
+    CAE/ModelCheck/__init__.pyi
+    CAE/Optimization/__init__.pyi
+    CAE/QualityAudit/__init__.pyi
+    CAE/ResponseSimulation/__init__.pyi
+    CAE/Xyplot/__init__.pyi
+    CallbackTestNamespace/__init__.pyi
+    CallbackTestNamespace/Subspace/__init__.pyi
+    CAM/__init__.pyi
+    CAM/FBM/__init__.pyi
+    Diagramming/__init__.pyi
+    Diagramming/Tables/__init__.pyi
+    DiagrammingLibraryAuthor/__init__.pyi
+    Die/__init__.pyi
+    Display/__init__.pyi
+    DMU/__init__.pyi
+    Drafting/__init__.pyi
+    Drawings/__init__.pyi
+    Facet/__init__.pyi
+    Features/__init__.pyi
+    Features/PlatformTestNamespace1/__init__.pyi
+    Features/PlatformTestNamespace2/__init__.pyi
+    Features/SheetMetal/__init__.pyi
+    Features/ShipDesign/__init__.pyi
+    Features/ShipDesign/GeneralArrangement/__init__.pyi
+    Features/Subdivision/__init__.pyi
+    Features/VehicleDesign/__init__.pyi
+    Fields/__init__.pyi
+    Formboard/__init__.pyi
+    Gateway/__init__.pyi
+    GeometricAnalysis/__init__.pyi
+    GeometricAnalysis/SectionAnalysis/__init__.pyi
+    GeometricUtilities/__init__.pyi
+    Issue/__init__.pyi
+    JamTestNamespace/__init__.pyi
+    JamTestNamespace/Subspace/__init__.pyi
+    Layer/__init__.pyi
+    Layout2d/__init__.pyi
+    MechanicalRouting/__init__.pyi
+    Mechatronics/__init__.pyi
+    MenuBar/__init__.pyi
+    ModlDirect/__init__.pyi
+    ModlUtils/__init__.pyi
+    Motion/__init__.pyi
+    Newapp/__init__.pyi
+    OpenXml/__init__.pyi
+    Optimization/__init__.pyi
+    Options/__init__.pyi
+    PartFamily/__init__.pyi
+    PDM/__init__.pyi
+    PhysMat/__init__.pyi
+    Placement/__init__.pyi
+    PLAS/__init__.pyi
+    Positioning/__init__.pyi
+    Preferences/__init__.pyi
+    Report/__init__.pyi
+    Routing/__init__.pyi
+    Routing/Electrical/__init__.pyi
+    ShapeSearch/__init__.pyi
+    SheetMetal/__init__.pyi
+    ShipDesign/__init__.pyi
+    SIM/__init__.pyi
+    SIM/PostConfigurator/__init__.pyi
+    Tooling/__init__.pyi
+    UF/__init__.pyi
+    UIStyler/__init__.pyi
+    UserDefinedObjects/__init__.pyi
+    Validate/__init__.pyi
+    VisualReporting/__init__.pyi
+    Weld/__init__.pyi
+```
